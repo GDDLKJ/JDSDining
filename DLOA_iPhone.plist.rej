@@ -1,0 +1,9 @@
+diff a/DLOA_iPhone.plist b/DLOA_iPhone.plist	(rejected hunks)
+@@ -12,7 +12,6 @@
+ 					<string>software-package</string>
+ 					<key>url</key>
+ <<<<<<< HEAD
+-					<string>https://gitee.com/dlrjeb/test_xiehuihui/raw/master/DLOA_iPhone_1.07.ipa</string>
+ 					<string>https://gitee.com/dlrjeb/JDS_AxDining/blob/master/DLOA_iPhone.ipa</string>
+ 					
+ >>>>>>> 71b93511c34615c0a2a2aec23ac6e69f3bf7c8f1
